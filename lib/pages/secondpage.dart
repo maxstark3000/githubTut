@@ -14,7 +14,7 @@ class Page2 extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            RaisedButton(child: Text('Back to Page 1'), onPressed: null),
+            RaisedButton(child: Text('Back to Pag 1'), onPressed: null),
             RaisedButton(child: Text('To Page '), onPressed: null)
           ],
         ),
